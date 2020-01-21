@@ -1,6 +1,6 @@
 # newsValidationSiteTests
 News Validation Site automation tests
-Acceptance tests automation using Java, spring, cucumber, selenium webdriver, page object model with page factory, maven, junit and intellij for xe.com
+Acceptance tests automation using Java, Serenity, cucumber, selenium webdriver, page object model with page factory, maven, junit and intellij for Guardian
 
 Download the project to a location on your PC.
 
