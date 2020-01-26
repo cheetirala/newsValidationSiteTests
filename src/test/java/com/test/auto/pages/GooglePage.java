@@ -1,12 +1,10 @@
 package com.test.auto.pages;
 
-import org.apache.commons.lang3.StringUtils;
-import org.openqa.selenium.WebDriver;
-
 import net.serenitybdd.core.Serenity;
 import net.serenitybdd.core.annotations.findby.FindBy;
 import net.serenitybdd.core.pages.PageObject;
 import net.serenitybdd.core.pages.WebElementFacade;
+import org.apache.commons.lang3.StringUtils;
 
 public class GooglePage extends PageObject{
 
